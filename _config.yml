@@ -3,3 +3,5 @@ title: Paweł Wołoszyn
 description: CV
 logo: assets/logo.jpg
 show_downloads: false
+github:
+  is_project_page: false
