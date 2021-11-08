@@ -35,7 +35,7 @@
 </details>
 
 <details class="details" open>
-  <summary>05.2013 - 09.2016 - Junior .NET Developer w AIUT</summary>
+  <summary>05.2013 - 09.2016 - Junior .NET Developer w <a target="_blank" href="https://aiut.com/">AIUT</a></summary>
   <p><b>Technologie:</b></p>
   <p><b>Biblioteki:</b></p>
   <p><b>Narzędzia:</b></p>
