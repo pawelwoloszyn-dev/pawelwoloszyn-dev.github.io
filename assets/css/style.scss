@@ -9,11 +9,6 @@
     margin: 16px 0;
 }
 
-.center-h1 {
-    text-align: center;
-    text-decoration: underline;
-}
-
 .details {
     summary {
         margin: 16px 0;
@@ -21,5 +16,10 @@
 }
 
 p {
-    margin: 0 0 8px;
+    margin: 0 0 12px;
+}
+
+p.underline-bold {
+    font-weight: bold;
+    text-decoration: underline;
 }
