@@ -17,6 +17,12 @@
     .details-project {
         margin-left: 16px;
     }
+    p {
+        :first-child {
+            margin-top: 10px;
+        }
+        padding-left: 8px;
+    }
 }
 
 p {
@@ -25,10 +31,4 @@ p {
 
 h2 {
     margin: 20px 0;
-}
-
-details {
-    p {
-        padding-left: 8px;
-    }
 }
