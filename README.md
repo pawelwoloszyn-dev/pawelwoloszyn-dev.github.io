@@ -1,6 +1,7 @@
-# Doświadczenie zawodowe
+# Paweł Wołoszyn
+## Doświadczenie zawodowe
 ---
-# Wykształcenie
+## Wykształcenie
 <details>
   <summary>2014-2017 - Studia magisterskie</summary>
   <h3>Uniwersytet Śląski w Katowicach</h3>
