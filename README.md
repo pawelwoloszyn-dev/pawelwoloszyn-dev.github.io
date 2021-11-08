@@ -1,10 +1,10 @@
 # Paweł Wołoszyn
 ---
 ## Doświadczenie zawodowe
-<details class="details">
-  <summary>11.2020 - nadal - Software Developer w DoIT Software</summary>
+<details class="details" open>
+  <summary>11.2020 - nadal - Fullstack Software Developer w DoIT Software</summary>
   <details class="details-project">
-    <summary>PROJECT X</summary>
+    <summary>Aplikacja </summary>
     <p><b>Technologie:</b></p>
     <p><b>Biblioteki:</b></p>
     <p><b>Narzędzia:</b></p>
@@ -12,24 +12,24 @@
   </details>
 </details>
 
-<details class="details">
-  <summary>03.2020 - 10.2020 - Software Developer w Emphie Solutions</summary>
+<details class="details" open>
+  <summary>03.2020 - 10.2020 - Fullstack Software Developer w Emphie Solutions</summary>
   <p><b>Technologie:</b></p>
   <p><b>Biblioteki:</b></p>
   <p><b>Narzędzia:</b></p>
   <p><b>Obowiązki:</b></p>
 </details>
 
-<details class="details">
-  <summary>10.2016 - 03.2020 - Software Developer w Future Processing</summary>
+<details class="details" open>
+  <summary>10.2016 - 03.2020 - .Net Developer w Future Processing</summary>
   <p><b>Technologie:</b></p>
   <p><b>Biblioteki:</b></p>
   <p><b>Narzędzia:</b></p>
   <p><b>Obowiązki:</b></p>
 </details>
 
-<details class="details">
-  <summary>05.2013 - 09.2016 - Junior Software Developer w AIUT</summary>
+<details class="details" open>
+  <summary>05.2013 - 09.2016 - Junior .NET Developer w AIUT</summary>
   <p><b>Technologie:</b></p>
   <p><b>Biblioteki:</b></p>
   <p><b>Narzędzia:</b></p>
