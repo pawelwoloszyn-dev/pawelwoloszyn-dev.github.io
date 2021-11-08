@@ -3,10 +3,13 @@
 ## Doświadczenie zawodowe
 <details class="details">
   <summary>11.2020 - nadal - Software Developer w DoIT Software</summary>
-  <p><b>Technologie:</b></p>
-  <p><b>Biblioteki:</b></p>
-  <p><b>Narzędzia:</b></p>
-  <p><b>Obowiązki:</b></p>
+  <details class="details">
+    <summary>PROJECT X</summary>
+    <p><b>Technologie:</b></p>
+    <p><b>Biblioteki:</b></p>
+    <p><b>Narzędzia:</b></p>
+    <p><b>Obowiązki:</b></p>
+  </details>
 </details>
 
 <details class="details">
