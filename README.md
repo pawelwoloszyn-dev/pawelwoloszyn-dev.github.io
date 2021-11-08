@@ -4,8 +4,9 @@
 <details class="details" open>
   <summary>
     <span class="date">11.2020 - nadal</span>
-    - Fullstack Software Developer w <a target="_blank" href="https://www.doitsoftware.pl/">DoIT Software</a>
+    - <a target="_blank" href="https://www.doitsoftware.pl/">DoIT Software</a>
   </summary>
+  <p><b>Rola:</b> Fullstack Software Developer</p>
   <details class="details-project">
     <summary>
       <span class="date">11.2020 - nadal</span>
@@ -23,32 +24,53 @@
     <span class="date">03.2020 - 10.2020</span>
     - Fullstack Software Developer w <a target="_blank" href="https://emphie.com/">Emphie Solutions</a>
   </summary>
-  <p><b>Technologie:</b></p>
-  <p><b>Biblioteki:</b></p>
-  <p><b>Narzędzia:</b></p>
-  <p><b>Obowiązki:</b></p>
+  <p><b>Rola:</b> Fullstack Software Developer</p>
+  <details class="details-project">
+    <summary>
+      <span class="date"> - </span>
+       - PROJECT X
+    </summary>
+    <p><b>Technologie:</b></p>
+    <p><b>Biblioteki:</b></p>
+    <p><b>Narzędzia:</b></p>
+    <p><b>Obowiązki:</b></p>
+  </details>
 </details>
 
 <details class="details" open>
   <summary>
     <span class="date">10.2016 - 03.2020</span>
-    - .Net Developer w <a target="_blank" href="https://www.future-processing.com/">Future Processing</a>
+    - <a target="_blank" href="https://www.future-processing.com/">Future Processing</a>
   </summary>
-  <p><b>Technologie:</b></p>
-  <p><b>Biblioteki:</b></p>
-  <p><b>Narzędzia:</b></p>
-  <p><b>Obowiązki:</b></p>
+  <p><b>Rola:</b> .Net Developer</p>
+  <details class="details-project">
+    <summary>
+      <span class="date"> - </span>
+       - PROJECT X
+    </summary>
+    <p><b>Technologie:</b></p>
+    <p><b>Biblioteki:</b></p>
+    <p><b>Narzędzia:</b></p>
+    <p><b>Obowiązki:</b></p>
+  </details>
 </details>
 
 <details class="details" open>
   <summary>
     <span class="date">05.2013 - 09.2016</span>
-    - Junior .NET Developer w <a target="_blank" href="https://aiut.com/">AIUT</a>
+    - <a target="_blank" href="https://aiut.com/">AIUT</a>
   </summary>
-  <p><b>Technologie:</b></p>
-  <p><b>Biblioteki:</b></p>
-  <p><b>Narzędzia:</b></p>
-  <p><b>Obowiązki:</b></p>
+  <p><b>Rola:</b> Junior .NET Developer</p>
+  <details class="details-project">
+    <summary>
+      <span class="date"> - </span>
+       - PROJECT X
+    </summary>
+    <p><b>Technologie:</b></p>
+    <p><b>Biblioteki:</b></p>
+    <p><b>Narzędzia:</b></p>
+    <p><b>Obowiązki:</b></p>
+  </details>
 </details>
 
 ## Wykształcenie
