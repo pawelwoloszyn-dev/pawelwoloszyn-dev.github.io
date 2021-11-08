@@ -15,10 +15,17 @@
         font-weight: 900;
     }
     .details-project {
+        summary {
+            font-weight: normal;
+        }
+
         margin-left: 16px;
     }
     p {
         padding-left: 8px;
+    }
+    .date {
+        text-decoration: underline;
     }
 }
 

@@ -2,9 +2,15 @@
 ---
 ## Doświadczenie zawodowe
 <details class="details" open>
-  <summary>11.2020 - nadal - Fullstack Software Developer w DoIT Software</summary>
+  <summary>
+    <span class="date">11.2020 - nadal</span>
+    - Fullstack Software Developer w DoIT Software
+  </summary>
   <details class="details-project">
-    <summary>11.2020 - Aplikacja do obsługi restauracji</summary>
+    <summary>
+      <span class="date">11.2020 - nadal</span>
+       - Aplikacja do obsługi restauracji
+    </summary>
     <p><b>Technologie:</b></p>
     <p><b>Biblioteki:</b></p>
     <p><b>Narzędzia:</b></p>
