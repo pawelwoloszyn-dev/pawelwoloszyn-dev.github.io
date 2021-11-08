@@ -16,14 +16,16 @@
     }
     .details-project {
         margin-left: 16px;
+        summary {
+            font-weight: normal;
+        }
     }
     p {
-        padding-left: 8px;
+        padding-left: 12px;
     }
     .date {
         text-decoration: underline;
         font-weight: 900;
-        
     }
 }
 
