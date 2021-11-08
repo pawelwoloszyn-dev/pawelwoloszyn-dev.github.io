@@ -4,7 +4,7 @@
 <details class="details" open>
   <summary>
     <span class="date">11.2020 - nadal</span>
-    - Fullstack Software Developer w DoIT Software
+    - Fullstack Software Developer w <a target="_blank" href="https://www.doitsoftware.pl/">DoIT Software</a>
   </summary>
   <details class="details-project">
     <summary>
@@ -19,7 +19,10 @@
 </details>
 
 <details class="details" open>
-  <summary>03.2020 - 10.2020 - Fullstack Software Developer w Emphie Solutions</summary>
+  <summary>
+    <span class="date">03.2020 - 10.2020</span>
+    - Fullstack Software Developer w <a target="_blank" href="https://emphie.com/">Emphie Solutions</a>
+  </summary>
   <p><b>Technologie:</b></p>
   <p><b>Biblioteki:</b></p>
   <p><b>Narzędzia:</b></p>
@@ -27,7 +30,10 @@
 </details>
 
 <details class="details" open>
-  <summary>10.2016 - 03.2020 - .Net Developer w Future Processing</summary>
+  <summary>
+    <span class="date">10.2016 - 03.2020</span>
+    - .Net Developer w <a target="_blank" href="https://www.future-processing.com/">Future Processing</a>
+  </summary>
   <p><b>Technologie:</b></p>
   <p><b>Biblioteki:</b></p>
   <p><b>Narzędzia:</b></p>
@@ -35,7 +41,10 @@
 </details>
 
 <details class="details" open>
-  <summary>05.2013 - 09.2016 - Junior .NET Developer w <a target="_blank" href="https://aiut.com/">AIUT</a></summary>
+  <summary>
+    <span class="date">05.2013 - 09.2016</span>
+    - Junior .NET Developer w <a target="_blank" href="https://aiut.com/">AIUT</a>
+  </summary>
   <p><b>Technologie:</b></p>
   <p><b>Biblioteki:</b></p>
   <p><b>Narzędzia:</b></p>
