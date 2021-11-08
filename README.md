@@ -22,7 +22,7 @@
 <details class="details" open>
   <summary>
     <span class="date">03.2020 - 10.2020</span>
-    - Fullstack Software Developer w <a target="_blank" href="https://emphie.com/">Emphie Solutions</a>
+    - <a target="_blank" href="https://emphie.com/">Emphie Solutions</a>
   </summary>
   <p><b>Rola:</b> Fullstack Software Developer</p>
   <details class="details-project">
