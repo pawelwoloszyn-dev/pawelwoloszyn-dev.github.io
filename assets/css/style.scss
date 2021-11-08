@@ -18,10 +18,11 @@
         margin-left: 16px;
     }
     p {
-        :first-child {
-            margin-top: 10px;
-        }
+        
         padding-left: 8px;
+    }
+    p:first-child {
+        margin-top: 10px;
     }
 }
 
