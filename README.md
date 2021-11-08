@@ -1,6 +1,7 @@
 # Paweł Wołoszyn
-## Doświadczenie zawodowe
 ---
+## Doświadczenie zawodowe
+
 ## Wykształcenie
 <details>
   <summary>2014-2017 - Studia magisterskie</summary>
