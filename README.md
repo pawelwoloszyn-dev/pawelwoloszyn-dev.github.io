@@ -10,7 +10,7 @@
   <details class="details-project">
     <summary>
       <span class="date">11.2020 - nadal</span>
-       - Oprogramowanie typu POS dla gastronomii
+       - Oprogramowanie typu POS oraz backoffice dla gastronomii
     </summary>
     <p><b>Technologie:</b></p>
     <p><b>Biblioteki:</b></p>
