@@ -3,8 +3,8 @@
 ## Doświadczenie zawodowe
 <details class="details" open>
   <summary>
-    <span class="date">11.2020 - nadal</span>
-    - <a target="_blank" href="https://www.doitsoftware.pl/">DoIT Software</a>
+     <a target="_blank" href="https://www.doitsoftware.pl/">DoIT Software</a>
+    - <span class="date">11.2020 - nadal</span>
   </summary>
   <p><b>Rola:</b> Fullstack Software Developer</p>
   <details class="details-project">
@@ -21,8 +21,8 @@
 
 <details class="details" open>
   <summary>
-    <span class="date">03.2020 - 10.2020</span>
-    - <a target="_blank" href="https://emphie.com/">Emphie Solutions</a>
+    <a target="_blank" href="https://emphie.com/">Emphie Solutions</a>
+    - <span class="date">03.2020 - 10.2020</span>
   </summary>
   <p><b>Rola:</b> Fullstack Software Developer</p>
   <details class="details-project">
@@ -35,7 +35,7 @@
     <p><b>Narzędzia:</b></p>
     <p><b>Obowiązki:</b></p>
   </details>
-  
+
   <details class="details-project">
     <summary>
       <span class="date">07.2020 - 07.2020</span>
@@ -61,8 +61,8 @@
 
 <details class="details" open>
   <summary>
-    <span class="date">10.2016 - 03.2020</span>
-    - <a target="_blank" href="https://www.future-processing.com/">Future Processing</a>
+    <a target="_blank" href="https://www.future-processing.com/">Future Processing</a>
+    - <span class="date">10.2016 - 03.2020</span>
   </summary>
   <p><b>Rola:</b> .Net Developer</p>
   <details class="details-project">
@@ -123,8 +123,8 @@
 
 <details class="details" open>
   <summary>
-    <span class="date">05.2013 - 09.2016</span>
-    - <a target="_blank" href="https://aiut.com/">AIUT</a>
+    <a target="_blank" href="https://aiut.com/">AIUT</a>
+    - <span class="date">05.2013 - 09.2016</span>
   </summary>
   <p><b>Rola:</b> Junior .NET Developer</p>
   <details class="details-project">
