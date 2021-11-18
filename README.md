@@ -129,7 +129,7 @@
   <p><b>Rola:</b> Junior .NET Developer</p>
   <details class="details-project">
     <summary>
-      <span class="date"> - </span>
+      <span class="date"> 05.2013 - 09.2016 </span>
        - Rozwój aplikacji do produkcji urządzeń IoT do zdalnego odczytu liczników: ciepła, gazu, wody, monitoringu zbiorników LPG
     </summary>
     <p><b>Technologie:</b></p>
