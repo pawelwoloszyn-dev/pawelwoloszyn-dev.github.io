@@ -31,6 +31,7 @@
       <span class="date">08.2020 - 10.2020</span>
        - Webowa aplikacja wirutalnego biura ze wsparciem komunikacji Audio-Video oraz tekstowej
     </summary>
+    <p><b>Język komunikacji z klientem:</b> Angielski</p>
     <p><b>Technologie:</b> Angular 9 (TypeScript), AWS: Lambda functions (TypeScript), Cognito (Autoryzacja), DynamoDB (Baza danych), Amazon Chime (Połączenia audio-video)</p>
     <p><b>Narzędzia:</b> GitHub, JIRA, AWS CLI, autorskie narzędzia klienta (do releasowania środowiska developerskiego, testów End-to-End)</p>
     <p><b>Proces wytwarzania oprogramowania:</b> Elementy czerpane ze scruma</p>
