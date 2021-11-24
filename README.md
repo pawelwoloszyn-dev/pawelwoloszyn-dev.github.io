@@ -16,7 +16,7 @@
     <p><b>Biblioteki:</b> SignalR, Ionic, Cordova</p>
     <p><b>Narzędzia:</b> Jenkins, Pakiet narzedzi atlassian (Jira, Confluence)</p>
     <p><b>Proces wytwarzania oprogramowania:</b> Scrum</p>
-    <p><b>Zakres prac:</b> W ramach codziennych zadań tworzyłem nowe funkcjonalności dla aplikacji używanej na urządzeniach typu POS opartych o system Windows i Android (Cordova). Zadania starałem się w miare możliwości i konieczności wykonywać na przekroju całego systemu (backend i frontend). Oprócz standardowych prac developerskich dodatkowo podejmowałem zadania i tematy związane z refactoringiem istniejących rozwiązań. Dodatkowo wypracowałem wraz z współpracownikami okresowe spotkania, na których dzieliliśmy się spostrzeżeniami dotyczącymi jakości i długu technicznego w istniejącym kodzie. Dodatkowo starałem się utrzymywać odpowiedni poziom kodu, który powstaje w aplikacji kładąc odpowiedni nacisk na jakość.</p>
+    <p><b>Zakres prac:</b> W ramach codziennych zadań tworzyłem nowe funkcjonalności dla aplikacji używanej na urządzeniach typu POS opartych o system Windows i Android (Cordova). Starałem się wykonywać zadania w miarę możliwości i konieczności na wszystkich poziomach systemu (backend i frontend). Oprócz standardowych prac developerskich dodatkowo podejmowałem zadania związane z refactoringiem istniejących rozwiązań. Wypracowałem wraz z zespołem okresowe spotkania, na których dzieliliśmy się spostrzeżeniami dotyczącymi jakości kodu. Dodatkowo starałem się utrzymywać odpowiedni poziom kodu, który powstaje w aplikacji kładąc odpowiedni nacisk na jakość.</p>
   </details>
 </details>
 
